@@ -1,0 +1,299 @@
+    1  ls
+    2  mkdir cst2555
+    3  ls
+    4  cd cst2555
+    5  ls
+    6  mkdir lab2 
+    7  ls
+    8  cd lab2
+    9  git clone https://github.com/iangmitchell/thousandFiles
+   10  ls
+   11  cd thousandFiles
+   12  ls
+   13  ls -a
+   14  tar -xvf 1000Files.tar
+   15  ls
+   16  cd 1000Files
+   17  ls
+   18  cd ..
+   19  cd 1000Files/8/7
+   20  ls
+   21  cd ..
+   22  cd 1000Files
+   23  cd 2/3
+   24  ls
+   25  cd ..
+   26  cd 6/3
+   27  cd ..
+   28  cd 6/3
+   29  ls
+   30  cd ..
+   31  ls -a
+   32  ls -a .txt
+   33  ls -a */*/*.txt
+   34  pwd
+   35  ls
+   36  cp 0/0/000.txt .
+   37  ls
+   38  cp 8/7/871.txt .
+   39  ls
+   40  cp 6/7/*.txt .
+   41  ls
+   42  cp -R 5/ .
+   43  cp -R 5 .
+   44  cd ..
+   45  cd 1000Files
+   46  cp -R ./5 .
+   47  cp -R 1000Files/5 .
+   48  cd ..
+   49  cp -R 1000Files/5 .
+   50  ls
+   51  cp -R 1000Files/4 1000Files/2/4
+   52  ls
+   53  cd 1000Files/2/4
+   54  ls
+   55  cd ..
+   56  ls
+   57  mkdir thisDirectoryContainsAllDateForMyCourse
+   58  ls
+   59  cd thisDirectoryContainsAllDateForMyCourse
+   60  ls
+   61  cd ..
+   62  rmdir thisDirectoryContainsAllDateForMyCourse
+   63  ls
+   64  cd 1000Files
+   65  ls
+   66  mkdir thisDirectoryContainsAllDateForMyCourse
+   67  ls
+   68  rm 000.txt .
+   69  cd ..
+   70  rm 000.txt .
+   71  cd 1000Files
+   72  rm 000.txt
+   73  ls
+   74  cp 0/0/000.txt .
+   75  ls
+   76  rm 000.txt .
+   77  ls
+   78  cp 0/0/000.txt .
+   79  rm 000.txt 
+   80  ls
+   81  rm *.txt . 
+   82  ls
+   83  rmdir thisDirectoryContainsAllDateForMyCourse
+   84  rm -R 9
+   85  ls
+   86  find -name 3
+   87  find -size +1M
+   88  find -size +1m
+   89  find -size -1m
+   90  ls
+   91  find -size 1m
+   92  find -size 1M
+   93  find -size 3b 
+   94  find -maxdepth 1
+   95  cd 6/6
+   96  ls
+   97  open 667.txt
+   98  cd ..
+   99  ls
+  100  cd ..
+  101  ls
+  102  mkdir lab3
+  103  ls
+  104  cd lab3
+  105  ls
+  106  wget http://shakespeare.mit.edu/twelfth night/full.html
+  107  ls
+  108  sudo apt-get install html2text.
+  109  ls
+  110  grep --help
+  111  cat > TwelfthNight.txt
+  112  ls
+  113  cd cst2555
+  114  cd lab3
+  115  ls
+  116  cat > TwelfthNight.txt
+  117  cd cst2555
+  118  cd lab3
+  119  ls
+  120  open TwelfthNight.txt
+  121  rm TwelfthNight.txt
+  122  ls
+  123  wget https://mdx.mrooms.net/pluginfile.php/4153254/mod_folder/content/0/Labs/Lab%203/File.txt?forcedownload=1
+  124  ls
+  125  rm 'File.txt?forcedownload=1'
+  126  ls
+  127  grep -c "surfeit" TwelfthNight.txt
+  128  open TwelfthNight.txt
+  129  grep -w "surfeit" TwelfthNight.txt
+  130  grep -c "surfeit" TwelfthNight.txt
+  131  grep -c "Surfeit" TwelfthNight.txt
+  132  grep -w "Surfeit" TwelfthNight.txt
+  133  cd cst2555/lab3
+  134  ls
+  135  open TwelfthNight.txt
+  136  grep -w "surfeit" TwelfthNight.txt
+  137  grep -wi "surfeit" TwelfthNight.txt
+  138  grep -nwi "surfeit" TwelfthNight.txt
+  139  grep -win "surfeit" TwelftNight.txt
+  140  grep -win "surfeit" TwelfthNight.txt
+  141  grep -win "heaven" TwelfthNight.txt
+  142  grep -wn "heaven" TwelfthNight.txt
+  143  grep -c '^$' TwelfthNight.txt
+  144  open TwelfthNight.txt
+  145  grep -cl '^$' TwelfthNight.txt
+  146  grep -c '^$' TwelfthNight.txt
+  147  open TwelfthNight.txt
+  148  grep -c "^$" TwelfthNight.txt
+  149  cd cst2555/lab3
+  150  grep -c ‘^$’ TwelfthNight.txt
+  151  open TwelfthNight.txt
+  152  grep -c '^$' TwelfthNight.txt
+  153  grep -cwl "CURIO" TwelfthNight.txt
+  154  grep -c "CURIO" TwelfthNight.txt
+  155  open TwelfthNight.txt
+  156  grep -co "CURIO" TwelfthNight.txt
+  157  grep -con "CURIO" TwelfthNight.txt
+  158  grep -onc "CURIO" TwelfthNight.txt
+  159  grep -on "CURIO" TwelfthNight.txt
+  160  grep -c "CURIO$" TwelfthNight.txt
+  161  grep -win "surfeit" TwelfthNight.txt
+  162  grep -win "heaven" TwelfthNight.txt
+  163  grep -con "CURIO$" TwelfthNight.txt
+  164  grep -c "SEBASTIAN$" TwelfthNight.txt
+  165  open TwelfthNight.txt
+  166  grep -c "^SEBASTIAN$" TwelfthNight.txt
+  167  grep -c "^CURIO$" TwelfthNight.txt
+  168  open TwelfthNight.txt 
+  169  grep -c '^$' TwelfthNight.txt
+  170  cd cst2555/lab3
+  171  open TwelfthNight.txt 
+  172  grep -c "surfeit" TwelfthNight.txt
+  173  grep -win "surfeit" TwelfthNight.txt
+  174  grep -wn "surfeit" TwelfthNight.txt
+  175  grep -n "surfeit" TwelfthNight.txt
+  176  grep -cw "surfeit" TwelfthNight.txt
+  177  grep -cw "heaven" TwelfthNight.txt
+  178  grep -n "heaven" TwelfthNight.txt
+  179  grep -wn "heaven" TwelfthNight.txt
+  180  grep -cwi "heaven" TwelfthNight.txt
+  181  grep -cwi "surfeit" TwelfthNight.txt
+  182  grep -cwi "soul" TwelfthNight.txt
+  183  grep -n "" TwelfthNight.txt
+  184  open TwelfthNight.txt 
+  185  grep -cn "$" TwelfthNight.txt
+  186  grep -cn "^$" TwelfthNight.txt
+  187  open TwelfthNight.txt 
+  188  grep -n "^but" TwelfthNight.txt
+  189  grep -win "but" TwelfthNight.txt
+  190  grep -wn "^but" TwelfthNight.txt
+  191  grep -n "^but" TwelfthNight.txt
+  192  grep -in "^but" TwelfthNight.txt
+  193  grep "^but" TwelfthNight.txt
+  194  grep -i '^but' TwelfthNight.txt
+  195  grep -c ^but TwelfthNight.txt
+  196  grep -ci ^but TwelfthNight.txt
+  197  grep -ic "but" TwelfthNight.txt 
+  198  grep -c "but" Twel
+  199  grep -c "but" TwelfthNight.txt
+  200  grep -c "but$" TwelfthNight.txt
+  201  grep -ic "^but" TwelfthNight.txt
+  202  grep -ic "^ but" TwelfthNight.txt
+  203  grep -c "^\|but" TwelfthNight.txt
+  204  grep -in "^\(but)" TwelfthNight.txt
+  205  grep -wc "^but" TwelfthNight.txt
+  206  grep -wicn "^\(but)" TwelfthNight.txt  
+  207  open TwelfthNight.txt 
+  208  grep -wic "^    but" TwelfthNight.txt
+  209  grep -wc "^     but" TwelfthNight.txt
+  210  grep -wic "^\sbut" TwelfthNight.txt
+  211  grep -wic "^\s\s\s\s\sbut" TwelfthNight.txt
+  212  open TwelfthNight.txt 
+  213  grep -win "^\s\s\s\s\sbut" TwelfthNight.txt
+  214  grep -win "^\s\s\s\s\s\sbut" TwelfthNight.txt
+  215  grep -win "^\s\s\s\sbut" TwelfthNight.txt
+  216  grep -win "^\s\s\s\s\sbut" TwelfthNight.txt
+  217  grep -wic "^\s\s\s\s\sbut" TwelfthNight.txt
+  218  greg -wc "\s\s\s\s\sbut" TwelfthNight.txt
+  219  grep -wc "^\s\s\s\s\sbut" TwelfthNight.txt
+  220  grep -wc "^\s\s\s\s\sBut" TwelfthNight.txt
+  221  grep -wc "{[A-Z]|[a-z],9}" TwelfthNight.txt
+  222  grep -win "^.........$" TwelfthNight.txt
+  223  grep -win "[:alpha:]{9}" TwelfthNight.txt
+  224  grep -win "[[:alpha]]{9}2" TwelfthNight.txt
+  225  grep -win "[[:alpha:]]{9}" TwelfthNight.txt
+  226  open TwelfthNight.txt 
+  227  grep -E '^[[:alpha:]]{9}$' words TwelfthNight.txt
+  228  grep -winE '^[[:alpha:]]{9}$' TwelfthNight.txt
+  229  grep -E '[[:alpha:]]{9}' TwelfthNight.txt
+  230  grep -winE '[[:alpha:]]{9}$' TwelfthNight.txt
+  231  grep -wnE '[[:alpha:]]{9}' TwelfthNight.txt
+  232  grep -wnE '[:alpha:]{9}' TwelfthNight.txt
+  233  grep -wcE '[[:alpha:]]{9}' TwelfthNight.txt
+  234  grep -wnE '[[:alpha:]]{10,}' TwelfthNight.txt
+  235  grep -wcE '[[:alpha:]]{10,}' TwelfthNight.txt
+  236  open TwelfthNight.txt 
+  237  cd cst2555/lab3
+  238  grep -wic "^ \+but" TwelfthNight.txt
+  239  grep -wic "^\+but" TwelfthNight.txt
+  240  grep -wic "^\ +but" TwelfthNight.txt
+  241  grep -wic "^ \+but" TwelfthNight.txt
+  242  grep -wio "surfeit" TwelfthNight.txt
+  243  grep -wioc "surfeit" TwelfthNight.txt
+  244  grep -cn "^" TwelfthNight.txt
+  245  grep -ow '[a-zA-Z]\{9\}' Twel2hNight.text | wc -l
+  246  grep -ow '[a-zA-Z]\{9\}' TwelfthNight.txt | wc -l
+  247  grep -ow '[a-zA-Z]\{10,\}' TwelfthNight.txt | wc -l
+  248  grep -c --help
+  249  grep -c ACT TwelfthNight.txt
+  250  grep -c SCENE TwelfthNight.txt
+  251  grep -o '\<[^e]\{3,\}\>' TwelfthNight.txt
+  252  grep -o '\[^e]\{3,\}' TwelfthNight.txt
+  253  grep -o '\<[^e]\{3,\}' TwelfthNight.txt
+  254  grep -o '\<[^e]\{3,\}\>' TwelfthNight.txt | wc -l
+  255  grep -oi '\<[^aeiou]\{3,\}\>' TwelfthNight.txt | wc -l
+  256  grep -o '[0-9]\+' TwelfthNight.txt | wc -l
+  257  └─$ grep -o '[0-9]\+' TwelfthNight.txt | wc -l            
+  258  grep -o '[^a-zA-Z]\+' TwelfthNight.txt | wc -l
+  259  grep -0 '\w\+' TwelfthNight.txt|wc -l
+  260  grep -0 '\w\+' TwelfthNight.txt | wc -l
+  261  grep -o '[^ ]*bb[^ ]*' TwelfthNight.txt
+  262  grep -n '\(.\)bb\1' TwelfthNight.txt
+  263  sudo apt-get update
+  264  vim
+  265  cd cst2555/lab3
+  266  ls
+  267  cd ..
+  268  ls
+  269  mkdir lab4
+  270  ls
+  271  cd lab4
+  272  vim
+  273  ls
+  274  cd cst2555/lab4
+  275  vim test1.dat
+  276  ls
+  277  open test1.txt
+  278  cat > test1.dat
+  279  cd cst2555/lab4
+  280  history
+  281  -w -history -w history.txt
+  282  history -w history.txt
+  283  clear
+  284  history
+  285  ls
+  286  history -w history.txt
+  287  history -h
+  288  history --help
+  289  -history -w history.txt
+  290  history -w history.txt
+  291  exit
+  292  history -w history.txt
+  293  history
+  294  ls
+  295  history > history.txt
+  296  ls
+  297  rm history.txt
+  298  ls
+  299  cd cst2555/lab4
