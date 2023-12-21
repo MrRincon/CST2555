@@ -1,0 +1,384 @@
+00001	SCENE II. Capulet's orchard.
+      
+      
+00002	     Enter ROMEO
+      
+00003	ROMEO
+      
+00004	     He jests at scars that never felt a wound.
+00005	     JULIET appears above at a window
+00006	     But, soft! what light through yonder window breaks?
+00007	     It is the east, and Juliet is the sun.
+00008	     Arise, fair sun, and kill the envious moon,
+00009	     Who is already sick and pale with grief,
+00010	     That thou her maid art far more fair than she:
+00011	     Be not her maid, since she is envious;
+00012	     Her vestal livery is but sick and green
+00013	     And none but fools do wear it; cast it off.
+00014	     It is my lady, O, it is my love!
+00015	     O, that she knew she were!
+00016	     She speaks yet she says nothing: what of that?
+00017	     Her eye discourses; I will answer it.
+00018	     I am too bold, 'tis not to me she speaks:
+00019	     Two of the fairest stars in all the heaven,
+00020	     Having some business, do entreat her eyes
+00021	     To twinkle in their spheres till they return.
+00022	     What if her eyes were there, they in her head?
+00023	     The brightness of her cheek would shame those stars,
+00024	     As daylight doth a lamp; her eyes in heaven
+00025	     Would through the airy region stream so bright
+00026	     That birds would sing and think it were not night.
+00027	     See, how she leans her cheek upon her hand!
+00028	     O, that I were a glove upon that hand,
+00029	     That I might touch that cheek!
+      
+00030	JULIET
+      
+00031	     Ay me!
+      
+00032	ROMEO
+      
+00033	     She speaks:
+00034	     O, speak again, bright angel! for thou art
+00035	     As glorious to this night, being o'er my head
+00036	     As is a winged messenger of heaven
+00037	     Unto the white-upturned wondering eyes
+00038	     Of mortals that fall back to gaze on him
+00039	     When he bestrides the lazy-pacing clouds
+00040	     And sails upon the bosom of the air.
+      
+00041	JULIET
+      
+00042	     O Romeo, Romeo! wherefore art thou Romeo?
+00043	     Deny thy father and refuse thy name;
+00044	     Or, if thou wilt not, be but sworn my love,
+00045	     And I'll no longer be a Capulet.
+      
+00046	ROMEO
+      
+00047	     [Aside] Shall I hear more, or shall I speak at this?
+      
+00048	JULIET
+      
+00049	     'Tis but thy name that is my enemy;
+00050	     Thou art thyself, though not a Montague.
+00051	     What's Montague? it is nor hand, nor foot,
+00052	     Nor arm, nor face, nor any other part
+00053	     Belonging to a man. O, be some other name!
+00054	     What's in a name? that which we call a rose
+00055	     By any other name would smell as sweet;
+00056	     So Romeo would, were he not Romeo call'd,
+00057	     Retain that dear perfection which he owes
+00058	     Without that title. Romeo, doff thy name,
+00059	     And for that name which is no part of thee
+00060	     Take all myself.
+      
+00061	ROMEO
+      
+00062	     I take thee at thy word:
+00063	     Call me but love, and I'll be new baptized;
+00064	     Henceforth I never will be Romeo.
+      
+00065	JULIET
+      
+00066	     What man art thou that thus bescreen'd in night
+00067	     So stumblest on my counsel?
+      
+00068	ROMEO
+      
+00069	     By a name
+00070	     I know not how to tell thee who I am:
+00071	     My name, dear saint, is hateful to myself,
+00072	     Because it is an enemy to thee;
+00073	     Had I it written, I would tear the word.
+      
+00074	JULIET
+      
+00075	     My ears have not yet drunk a hundred words
+00076	     Of that tongue's utterance, yet I know the sound:
+00077	     Art thou not Romeo and a Montague?
+      
+00078	ROMEO
+      
+00079	     Neither, fair saint, if either thee dislike.
+      
+00080	JULIET
+      
+00081	     How camest thou hither, tell me, and wherefore?
+00082	     The orchard walls are high and hard to climb,
+00083	     And the place death, considering who thou art,
+00084	     If any of my kinsmen find thee here.
+      
+00085	ROMEO
+      
+00086	     With love's light wings did I o'er-perch these walls;
+00087	     For stony limits cannot hold love out,
+00088	     And what love can do that dares love attempt;
+00089	     Therefore thy kinsmen are no let to me.
+      
+00090	JULIET
+      
+00091	     If they do see thee, they will murder thee.
+      
+00092	ROMEO
+      
+00093	     Alack, there lies more peril in thine eye
+00094	     Than twenty of their swords: look thou but sweet,
+00095	     And I am proof against their enmity.
+      
+00096	JULIET
+      
+00097	     I would not for the world they saw thee here.
+      
+00098	ROMEO
+      
+00099	     I have night's cloak to hide me from their sight;
+00100	     And but thou love me, let them find me here:
+00101	     My life were better ended by their hate,
+00102	     Than death prorogued, wanting of thy love.
+      
+00103	JULIET
+      
+00104	     By whose direction found'st thou out this place?
+      
+00105	ROMEO
+      
+00106	     By love, who first did prompt me to inquire;
+00107	     He lent me counsel and I lent him eyes.
+00108	     I am no pilot; yet, wert thou as far
+00109	     As that vast shore wash'd with the farthest sea,
+00110	     I would adventure for such merchandise.
+      
+00111	JULIET
+      
+00112	     Thou know'st the mask of night is on my face,
+00113	     Else would a maiden blush bepaint my cheek
+00114	     For that which thou hast heard me speak to-night
+00115	     Fain would I dwell on form, fain, fain deny
+00116	     What I have spoke: but farewell compliment!
+00117	     Dost thou love me? I know thou wilt say 'Ay,'
+00118	     And I will take thy word: yet if thou swear'st,
+00119	     Thou mayst prove false; at lovers' perjuries
+00120	     Then say, Jove laughs. O gentle Romeo,
+00121	     If thou dost love, pronounce it faithfully:
+00122	     Or if thou think'st I am too quickly won,
+00123	     I'll frown and be perverse an say thee nay,
+00124	     So thou wilt woo; but else, not for the world.
+00125	     In truth, fair Montague, I am too fond,
+00126	     And therefore thou mayst think my 'havior light:
+00127	     But trust me, gentleman, I'll prove more true
+00128	     Than those that have more cunning to be strange.
+00129	     I should have been more strange, I must confess,
+00130	     But that thou overheard'st, ere I was ware,
+00131	     My true love's passion: therefore pardon me,
+00132	     And not impute this yielding to light love,
+00133	     Which the dark night hath so discovered.
+      
+00134	ROMEO
+      
+00135	     Lady, by yonder blessed moon I swear
+00136	     That tips with silver all these fruit-tree tops--
+      
+00137	JULIET
+      
+00138	     O, swear not by the moon, the inconstant moon,
+00139	     That monthly changes in her circled orb,
+00140	     Lest that thy love prove likewise variable.
+      
+00141	ROMEO
+      
+00142	     What shall I swear by?
+      
+00143	JULIET
+      
+00144	     Do not swear at all;
+00145	     Or, if thou wilt, swear by thy gracious self,
+00146	     Which is the god of my idolatry,
+00147	     And I'll believe thee.
+      
+00148	ROMEO
+      
+00149	     If my heart's dear love--
+      
+00150	JULIET
+      
+00151	     Well, do not swear: although I joy in thee,
+00152	     I have no joy of this contract to-night:
+00153	     It is too rash, too unadvised, too sudden;
+00154	     Too like the lightning, which doth cease to be
+00155	     Ere one can say 'It lightens.' Sweet, good night!
+00156	     This bud of love, by summer's ripening breath,
+00157	     May prove a beauteous flower when next we meet.
+00158	     Good night, good night! as sweet repose and rest
+00159	     Come to thy heart as that within my breast!
+      
+00160	ROMEO
+      
+00161	     O, wilt thou leave me so unsatisfied?
+      
+00162	JULIET
+      
+00163	     What satisfaction canst thou have to-night?
+      
+00164	ROMEO
+      
+00165	     The exchange of thy love's faithful vow for mine.
+      
+00166	JULIET
+      
+00167	     I gave thee mine before thou didst request it:
+00168	     And yet I would it were to give again.
+      
+00169	ROMEO
+      
+00170	     Wouldst thou withdraw it? for what purpose, love?
+      
+00171	JULIET
+      
+00172	     But to be frank, and give it thee again.
+00173	     And yet I wish but for the thing I have:
+00174	     My bounty is as boundless as the sea,
+00175	     My love as deep; the more I give to thee,
+00176	     The more I have, for both are infinite.
+00177	     Nurse calls within
+00178	     I hear some noise within; dear love, adieu!
+00179	     Anon, good nurse! Sweet Montague, be true.
+00180	     Stay but a little, I will come again.
+00181	     Exit, above
+      
+00182	ROMEO
+      
+00183	     O blessed, blessed night! I am afeard.
+00184	     Being in night, all this is but a dream,
+00185	     Too flattering-sweet to be substantial.
+00186	     Re-enter JULIET, above
+      
+00187	JULIET
+      
+00188	     Three words, dear Romeo, and good night indeed.
+00189	     If that thy bent of love be honourable,
+00190	     Thy purpose marriage, send me word to-morrow,
+00191	     By one that I'll procure to come to thee,
+00192	     Where and what time thou wilt perform the rite;
+00193	     And all my fortunes at thy foot I'll lay
+00194	     And follow thee my lord throughout the world.
+      
+00195	Nurse
+      
+00196	     [Within] Madam!
+      
+00197	JULIET
+      
+00198	     I come, anon.--But if thou mean'st not well,
+00199	     I do beseech thee--
+      
+00200	Nurse
+      
+00201	     [Within] Madam!
+      
+00202	JULIET
+      
+00203	     By and by, I come:--
+00204	     To cease thy suit, and leave me to my grief:
+00205	     To-morrow will I send.
+      
+00206	ROMEO
+      
+00207	     So thrive my soul--
+      
+00208	JULIET
+      
+00209	     A thousand times good night!
+00210	     Exit, above
+      
+00211	ROMEO
+      
+00212	     A thousand times the worse, to want thy light.
+00213	     Love goes toward love, as schoolboys from
+00214	     their books,
+00215	     But love from love, toward school with heavy looks.
+00216	     Retiring
+00217	     Re-enter JULIET, above
+      
+00218	JULIET
+      
+00219	     Hist! Romeo, hist! O, for a falconer's voice,
+00220	     To lure this tassel-gentle back again!
+00221	     Bondage is hoarse, and may not speak aloud;
+00222	     Else would I tear the cave where Echo lies,
+00223	     And make her airy tongue more hoarse than mine,
+00224	     With repetition of my Romeo's name.
+      
+00225	ROMEO
+      
+00226	     It is my soul that calls upon my name:
+00227	     How silver-sweet sound lovers' tongues by night,
+00228	     Like softest music to attending ears!
+      
+00229	JULIET
+      
+00230	     Romeo!
+      
+00231	ROMEO
+      
+00232	     My dear?
+      
+00233	JULIET
+      
+00234	     At what o'clock to-morrow
+00235	     Shall I send to thee?
+      
+00236	ROMEO
+      
+00237	     At the hour of nine.
+      
+00238	JULIET
+      
+00239	     I will not fail: 'tis twenty years till then.
+00240	     I have forgot why I did call thee back.
+      
+00241	ROMEO
+      
+00242	     Let me stand here till thou remember it.
+      
+00243	JULIET
+      
+00244	     I shall forget, to have thee still stand there,
+00245	     Remembering how I love thy company.
+      
+00246	ROMEO
+      
+00247	     And I'll still stay, to have thee still forget,
+00248	     Forgetting any other home but this.
+      
+00249	JULIET
+      
+00250	     'Tis almost morning; I would have thee gone:
+00251	     And yet no further than a wanton's bird;
+00252	     Who lets it hop a little from her hand,
+00253	     Like a poor prisoner in his twisted gyves,
+00254	     And with a silk thread plucks it back again,
+00255	     So loving-jealous of his liberty.
+      
+00256	ROMEO
+      
+00257	     I would I were thy bird.
+      
+00258	JULIET
+      
+00259	     Sweet, so would I:
+00260	     Yet I should kill thee with much cherishing.
+00261	     Good night, good night! parting is such
+00262	     sweet sorrow,
+00263	     That I shall say good night till it be morrow.
+00264	     Exit above
+      
+00265	ROMEO
+      
+00266	     Sleep dwell upon thine eyes, peace in thy breast!
+00267	     Would I were sleep and peace, so sweet to rest!
+00268	     Hence will I to my ghostly father's cell,
+00269	     His help to crave, and my dear hap to tell.
+00270	     Exit
+      
+      
